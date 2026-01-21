@@ -285,7 +285,7 @@ _WhichSidePutAwayText::
 	done
 
 _PutAwayTheDecoText::
-	text "Verwijdert de" ; "Put away the"
+	text "Verwijdert" ; "Put away the"
 	line "@"
 	text_ram wStringBuffer3 ; MaxLength MaxDecorationNameLength
 	text "."
